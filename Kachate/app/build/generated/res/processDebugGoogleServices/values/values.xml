@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">78072447329-u6rd7tjng2d6hhp1jdjchc1cpjhrclfu.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">78072447329</string>
+    <string name="google_api_key" translatable="false">AIzaSyAyKU39JFJ0lUa3otaIAraz_ZLLGPcb6bg</string>
+    <string name="google_app_id" translatable="false">1:78072447329:android:0257790fb921b21f5ec520</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAyKU39JFJ0lUa3otaIAraz_ZLLGPcb6bg</string>
+    <string name="google_storage_bucket" translatable="false">newkachate.firebasestorage.app</string>
+    <string name="project_id" translatable="false">newkachate</string>
+</resources>
