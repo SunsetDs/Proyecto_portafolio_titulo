@@ -1,0 +1,27 @@
+<resources>
+    <string-array name="allergies_options">
+        <item>Ninguna</item>
+        <item>Gluten</item>
+        <item>Lácteos</item>
+        <item>Frutos secos</item>
+    </string-array>
+
+    <string-array name="diet_options">
+        <item>Selecciona</item>
+        <item>Vegetariana</item>
+        <item>Vegana</item>
+    </string-array>
+
+    <string-array name="gender_options">
+        <item>Selecciona</item>
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+
+    <string-array name="pregnancy_options">
+        <item>Selecciona</item>
+        <item>Embarazo</item>
+        <item>Lactancia</item>
+        <item>Ninguno</item>
+    </string-array>
+</resources>
